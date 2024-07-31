@@ -3,7 +3,7 @@ hours_spent = 1.5
 course_name = 'Python'
 average_time_per_homework = hours_spent / num_homeworks
 
-print("Курс:", course_name, "всего задач:", num_homeworks, "затрачено часов:", hours_spent, "среднее время выполнения", average_time_per_homework,"часа.")
+print("Курс:", course_name, "всего задач:", num_homeworks, "затрачено часов:", hours_spent, "среднее время выполнения", average_time_per_homework, "часа.")
 
 # Вариант с f.
 print(f"Курс: {course_name}, всего задач: {num_homeworks}, затрачено часов: {hours_spent}, среднее время выполнения {average_time_per_homework} часа.")
